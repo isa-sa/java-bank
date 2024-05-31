@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main2 {
+public class Main {
     public static void main(String[] args) {
         String nome = "Fulano25111111111111111111";
         String tipoConta = "Corrente";
